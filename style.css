@@ -1,3 +1,82 @@
-P {
-  color: red;
+* {
+  max-width: 700px;
+  margin: auto;
+}
+
+#header {
+  height: 10px;
+  width: 100%;
+  background-color: #355E3B;
+}
+
+#title {
+  margin-left: 3%;
+}
+
+img {
+  float: right;
+  height: 220px;
+  width: 160px;
+
+}
+
+.resume {
+  display: inline-block;
+  margin-top: 6px;
+  margin-left: 20px;
+  width: 90%;
+  height: 1000px;
+}
+
+p,
+li {
+  
+  font-size: 14px;
+  font-family: Palatino, 'Palatino Linotype', serif; 
+  color: Black;
+}
+
+.head {
+  font-size: 15px;
+}
+
+#name {
+  font-family: Sacramento;
+  float: right;
+  margin-top: 10px;
+  margin-right: 4%;
+}
+
+a {
+  color: navy blue;
+  text-decoration: none;
+}
+h1 {
+  font-size: 30px;
+  font-family: Palatino, 'Palatino Linotype', serif; 
+  color:355E3B;
+}
+h2 {
+  font-size: 15px;
+  font-family: Palatino, 'Palatino Linotype', serif; 
+  color:black;
+  }
+  
+h3 {
+  font-size: 20px;
+  font-family: Palatino, 'Palatino Linotype', serif; 
+  color:black;
+  }
+  
+h4 {
+  color: Black;
+  font-size: 15px;
+  font-family: Montserrat 'Palatino Linotype', serif; 
+  text-decoration: none;
+}
+h5 {
+  color: Black;
+  font-size: 5px;
+  font-family: Montserrat 'Palatino Linotype', serif; 
+  text-decoration: none;
 }
