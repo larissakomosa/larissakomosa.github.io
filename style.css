@@ -2,6 +2,9 @@
   max-width: 700px;
   margin: auto;
 }
+body {
+    background-color: #FFFFF0;
+}
 
 #header {
   height: 10px;
