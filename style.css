@@ -3,13 +3,19 @@
   margin: auto;
 }
 body {
-    background-color: #FFFFF0;
+    background-color: #f5f5dc;
 }
 
 #header {
-  height: 10px;
+  height: 15px;
+  width: 100%;
+  background-color: #355e3b ;
+}
+#footer {
+  height: 15px;
   width: 100%;
   background-color: #355E3B;
+  position: relative;
 }
 
 #title {
@@ -34,9 +40,10 @@ img {
 p,
 li {
   
-  font-size: 14px;
+  font-size:15px;
   font-family: Palatino, 'Palatino Linotype', serif; 
   color: Black;
+  
 }
 
 .head {
@@ -54,25 +61,27 @@ a {
   color: navy blue;
   text-decoration: none;
 }
+
+
 h1 {
   font-size: 30px;
   font-family: Georgia, 'Palatino Linotype', serif;   
-  color:355E3B;
+  color:Maroon;
 }
 h2 {
   font-size: 15px;
   font-family: Palatino, 'Palatino Linotype', serif; 
-  color:black;
+  color:Black;
   }
   
 h3 {
   font-size: 22px;
   font-family: Georgia, 'Palatino Linotype', serif; 
-  color:black;
+  color:Maroon;
   }
   
 h4 {
-  color: maroon;
+  color: Black;
   font-size: 18px;
   font-family: Montserrat 'Palatino Linotype', serif; 
   text-decoration: none;
@@ -81,5 +90,3 @@ h5 {
   color: Gray;
   font-size: 16px;
   font-family: Montserrat 'Palatino Linotype', serif; 
-  text-decoration: none;
- 
