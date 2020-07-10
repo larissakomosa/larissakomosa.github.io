@@ -11,7 +11,11 @@ body {
   width: 100%;
   background-color: #355e3b ;
 }
-
+#footer {
+  height: 15px;
+  width: 110%;
+  background-color: #355E3B;
+}
 img {
   float: right;
   height: 220px;
