@@ -1,9 +1,9 @@
 * {
-  max-width: 700px;
+  max-width: 720px;
   margin: auto;
 }
 body {
-    background-color: #f5f5dc;
+    background-color: beige;
 }
 
 #header {
@@ -11,82 +11,49 @@ body {
   width: 100%;
   background-color: #355e3b ;
 }
-#footer {
-  height: 15px;
-  width: 100%;
-  background-color: #355E3B;
-  position: relative;
-}
-
-#title {
-  margin-left: 3%;
-}
 
 img {
   float: right;
   height: 220px;
-  width: 160px;
-
+  width: 170px;
 }
 
 .resume {
   display: inline-block;
   margin-top: 6px;
   margin-left: 20px;
-  width: 90%;
+  width: 95%;
   height: 1000px;
 }
 
-p,
 li {
   
   font-size:15px;
   font-family: Palatino, 'Palatino Linotype', serif; 
-  color: Black;
-  
+  color: Black; 
 }
 
-.head {
-  font-size: 15px;
+.title {
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Montserrat, 'Palatino Linotype', serif;   
+  color:Black;
 }
-
-#name {
-  font-family: Sacramento;
-  float: right;
-  margin-top: 10px;
-  margin-right: 4%;
-}
-
-a {
-  color: navy blue;
-  text-decoration: none;
-}
-
 
 h1 {
-  font-size: 30px;
+  font-size: 35px;
   font-family: Georgia, 'Palatino Linotype', serif;   
   color:Maroon;
 }
 h2 {
-  font-size: 15px;
-  font-family: Palatino, 'Palatino Linotype', serif; 
-  color:Black;
-  }
-  
-h3 {
-  font-size: 22px;
+  font-size: 24px;
   font-family: Georgia, 'Palatino Linotype', serif; 
   color:Maroon;
   }
   
-h4 {
-  color: Black;
-  font-size: 18px;
-  font-family: Montserrat 'Palatino Linotype', serif; 
-  text-decoration: none;
-}
-h5 {
-  color: Gray;
-  font-size: 16px;
-  font-family: Montserrat 'Palatino Linotype', serif; 
+h3 {
+  font-size: 15px;
+  font-family: Georgia, 'Palatino Linotype', serif; 
+  color:Black;
+  }
+  
